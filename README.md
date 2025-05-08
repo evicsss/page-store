@@ -1,4 +1,5 @@
-# **DevStore 404** 
+# **DevStore 404**
+
 É uma vitrine fictícia de produtos da Apple, projetada com foco em animações dinâmicas e interatividade. O projeto simula uma loja online com carrossel de produtos, onde os usuários podem navegar por diversos itens, como o Apple Watch Series 10, Air Pods Max e o Apple Vision Pro.
 
 ![Imagem ilustrativa da página inicial](./img/dev.png)
@@ -26,15 +27,8 @@
 └── README.md              # Este arquivo
 
 
-Você pode visualizar o projeto online através do link abaixo: [DevStore Demo](https://dev-store-nu.vercel.app/)
-
-
-
-
 
 
 Feito com 💙 por Évila Oliveira
-
-
 
 
